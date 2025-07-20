@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText user_field;
     private TextView result_info;
     private Button main_btn;
-    private static final String API_KEY = "89038a6cf40e98f1c18d2092c533edfb";
+    private static final String API_KEY = "...";
     private ImageView weatherImg;
     private RelativeLayout mainLayout;
 
