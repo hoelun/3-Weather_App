@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather_App</string>
+    <string name="logo">Погода в городе</string>
+    <string name="user_field">Введите город</string>
+    <string name="main_btn">Узнать погоду</string>
+    <string name="empty_field">Введите текст</string>
+    <string name="loading">Обработка запроса</string>
+    <string name="error">Ошибка обработки запроса</string>
+    <string name="request_cancelled">Запрос отменен</string>
+    <string name="error_name">Такой населенный пункт не найден</string>
+    <string name="weather_img">Иконка погоды</string>
+    <string name="weather_back">Цвет погоды</string>
+</resources>
